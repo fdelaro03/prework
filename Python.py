@@ -56,7 +56,7 @@ my_dict = {
     "name":"Kevin",
     "age": 22,
     "foods":["dimsum","sushi", "pizza", "tacos"]
-    "ice cream":{"chocolate":2.99, "vanilla": .99, "strawberry": 5.99}
+    "ice vanilla":{"chocolate":2.99, "vanilla": .99, "strawberry": 5.99}
 }
 
 Print (
